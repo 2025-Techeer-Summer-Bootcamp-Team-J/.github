@@ -1,29 +1,29 @@
-# Hi there 👋
+### Hi there 👋
 
 
-# 📋 Table of Contents
+### 📋 Table of Contents
 
-# 📖 Medium
+### 📖 Medium
 
-# 🎥 Demo
-
-
-# 🛠 ️System Architecture
+### 🎥 Demo
 
 
-# 📗 API
-
-# 🔑 ERD
-
-# 💻 Tech Stack
+### 🛠 ️System Architecture
 
 
+### 📗 API
 
-# 📊 Monitoring
+### 🔑 ERD
+
+### 💻 Tech Stack
 
 
 
-# 🔧 Logging
+### 📊 Monitoring
+
+
+
+### 🔧 Logging
 
 
 # 🛠 Tech stack
@@ -37,7 +37,7 @@
 
 
 
-# 👨‍👩‍👧‍👦 Team Members
+### 👨‍👩‍👧‍👦 Team Members
 
 
 
