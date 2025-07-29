@@ -28,7 +28,8 @@
 </p>
 
 ## 🛠 System Architecture
-<img width="2373" height="1185" alt="image" src="https://github.com/user-attachments/assets/938881e5-713f-460c-9c7b-485c5578c2c8" />
+<img width="1383" height="759" alt="image" src="https://github.com/user-attachments/assets/96aa4ac7-2de5-46d5-abba-ad42f9754d74" />
+
 
 
 ## 🔑 ERD
