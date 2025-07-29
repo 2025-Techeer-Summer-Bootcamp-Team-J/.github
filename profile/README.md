@@ -1,32 +1,34 @@
-### Hi there 👋
+# 삐까뻔쩍 - PPIKA ❇️
 
 
-### 📋 Table of Contents
-
-### 📖 Medium
-
-### 🎥 Demo
-
-
-### 🛠 ️System Architecture
-
-
-### 📗 API
-
-### 🔑 ERD
-
-### 💻 Tech Stack
+# 📋 Table of Contents
 
 
 
-### 📊 Monitoring
+# 📖 Medium
 
 
 
-### 🔧 Logging
+# 🎥 Demo
 
 
-# 🛠 Tech stack
+
+# 📗 API
+<img width="888" height="1050" alt="image" src="https://github.com/user-attachments/assets/9b410fab-80bb-491f-80b9-42d1f04989c8" />
+<img width="887" height="646" alt="image" src="https://github.com/user-attachments/assets/78ac7736-43e4-4543-b6ea-7b992ed46c98" />
+
+
+# 🛠 ️System Architecture
+<img width="2373" height="1185" alt="image" src="https://github.com/user-attachments/assets/938881e5-713f-460c-9c7b-485c5578c2c8" />
+
+
+# 🔑 ERD
+<img width="1631" height="771" alt="image" src="https://github.com/user-attachments/assets/49b94ff9-78d7-49de-8eca-1407ee761868" />
+
+
+
+
+# 💻 Tech Stack
 | 분야        | 사용 기술                                                                                                                                             |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Frontend    | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![StyledComponents](https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white) |
@@ -36,12 +38,23 @@
 | etc         | ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) ![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)|
 
 
-
-### 👨‍👩‍👧‍👦 Team Members
-
+# 📊 Monitoring
 
 
 
+# 🔧 Logging
+
+
+
+
+
+# 👨‍👩‍👧‍👦 Team Members
+
+ | Name     | 김동현  | 김지연 | 이명진 | 이유민 | 최우민 |
+ | -------- | ------  | ------ | ------ | ------ | ------ |
+ | Profile  | ------  | ------ | ------ | ------ | ------ |
+ | Role     | ------  | ------ | ------ | ------ | ------ |
+ | Github   | ------  | ------ | ------ | ------ | ------ |
 
 
 
