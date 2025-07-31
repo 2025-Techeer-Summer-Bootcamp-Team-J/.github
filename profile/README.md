@@ -14,13 +14,26 @@
 
 
 ## 📖 Medium
-
-
+https://medium.com/p/b230789a8c00/edit
 
 ## 🎥 Demo
 
+### 온보딩 페이지
+서비스의 소개 및 사용방법 을 알 수 있습니다
+https://github.com/user-attachments/assets/8b559a2a-f0e0-42fb-8fe7-8ebb50bf6388
 
-Uploading 온보딩페이지.mp4…
+### AI 진단
+https://github.com/user-attachments/assets/0528e439-793a-48be-a11e-f90c34b10110
+
+
+### 피부 분석
+https://github.com/user-attachments/assets/a02bbb9c-77a1-4c3d-9912-722d1ef082a4
+
+### 대시보드
+https://github.com/user-attachments/assets/5ccbdf2f-fe81-439e-9945-94c063c99c30
+
+### 오늘의 케어
+https://github.com/user-attachments/assets/735944f4-9c50-4712-8562-94086b58e54d
 
 
 
