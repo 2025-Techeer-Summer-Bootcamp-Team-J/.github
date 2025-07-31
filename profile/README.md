@@ -106,16 +106,107 @@ https://medium.com/p/b230789a8c00/edit
 
 ## 👨‍👩‍👧‍👦 Team Members
 
- | Name     | 김동현  | 김지연 | 이명진 | 이유민 | 최우민 |
- | -------- | ------  | ------ | ------ | ------ | ------ |
- | Profile  | ------  | ------ | ------ | ------ | ------ |
- | Role     | ------  | ------ | ------ | ------ | ------ |
- | Github   | ------  | ------ | ------ | ------ | ------ |
 
 
-
-
-
+<table width="1000">
+    <thead>
+    </thead>
+    <tbody>
+    <tr>
+        <th>Pictures</th>
+             <td width="100" align="center">
+            <a href="https://github.com/ehdgusdl">
+                <img src="https://github.com/user-attachments/assets/426c1aef-04c4-4ced-a6ed-1a9314e07003" />
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/septeratz">
+                <img src="https://github.com/user-attachments/assets/a3ce66f2-e2b7-44e3-8482-287f75cce56b" />
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/jiyeon0323">
+                <img src="https://github.com/user-attachments/assets/32e4db42-584f-4283-b2fd-dc2b7f3ad3d6"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/hippocampez">
+                <img src="https://github.com/user-attachments/assets/a60cdba3-b6a8-4f60-a94d-109dfef3f486"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/chlwoomin">
+                <img src="https://github.com/user-attachments/assets/3a88f778-a45a-4ad4-8422-801ab7d89bbc" />
+            </a>
+        </td>
+        </td>
+    </tr>
+    <tr>
+        <th>Name</th>
+        <td width="100" align="center">김동현</td>
+        <td width="100" align="center">이명진</td>
+        <td width="100" align="center">김지연</td>
+        <td width="100" align="center">이유민</td>
+        <td width="100" align="center">최우민</td>
+    </tr>
+    <tr>
+        <th>Position</th>
+        <td width="150" align="center">
+            Backend<br>
+            Frontend<br>
+            DevOps<br>
+            Leader<br>
+        </td>
+        <td width="150" align="center">
+            Backend
+            Frontend
+            DevOps
+        </td>
+        <td width="150" align="center">
+            Backend
+            Frontend
+        </td>
+        <td width="150" align="center">
+            Backend
+            Frontend
+        </td>
+        <td width="150" align="center">
+            Backend
+            Frontend
+            DevOps
+        </td>
+    </tr>
+    <tr>
+        <th>GitHub</th>
+        <td width="100" align="center">
+            <a href="https://github.com/ehdgusdl">
+                <img src="http://img.shields.io/badge/ehdgusdl-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/septeratz">
+                <img src="http://img.shields.io/badge/septeratz-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/jiyeon0323">
+                <img src="http://img.shields.io/badge/jiyeon0323-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/hippocampez">
+                <img src="http://img.shields.io/badge/hippocampez-green?style=social&logo=github"/>
+            </a>
+        </td>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/chlwoomin">
+                <img src="http://img.shields.io/badge/chlwoomin-green?style=social&logo=github"/>
+            </a>
+        </td>
+    </tr>
+    </tbody>
+</table>
 
 
 
