@@ -35,7 +35,7 @@ https://medium.com/p/b230789a8c00/edit
 
 
 ### AI 진단
-> 피부 질환의 사진을 업로드하여 분석결과를 얻을 수 있습니다
+> 피부 질환의 사진을 업로드하여 분석결과를 얻을 수 있습니다.
 
 ![_AI진단 mp4](https://github.com/user-attachments/assets/a1b57019-b8be-4eec-aa11-5f5bb8f182db)
 
@@ -43,7 +43,7 @@ https://medium.com/p/b230789a8c00/edit
 
 
 ### 피부 분석
-> 얼굴 사진을 업로드하여 분석결과를 얻을 수 있습니다
+> 얼굴 사진을 업로드하여 분석결과를 얻을 수 있습니다.
 
 ![피부분석 mp4](https://github.com/user-attachments/assets/b5d7c5fd-d444-4d21-b838-c7aa22708695)
 
@@ -51,7 +51,7 @@ https://medium.com/p/b230789a8c00/edit
 
 
 ### 대시보드
-> 대시보드에서 이전 분석결과를 조회할 수 있습니다
+> 대시보드에서 이전 분석결과를 조회할 수 있습니다.
 
 ![대시보드 mp4](https://github.com/user-attachments/assets/94da652c-3b88-443a-8228-eeb836296120)
 
@@ -61,7 +61,7 @@ https://medium.com/p/b230789a8c00/edit
 
 
 ### 오늘의 케어
-> 자외선 지수를 조회할 수 있습니다
+> 실시간 자외선 지수를 확인할 수 있습니다.
 
 ![오늘의 케어 mp4](https://github.com/user-attachments/assets/d0a5288b-5efe-46dd-af5b-40017af7b3cd)
 
