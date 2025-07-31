@@ -1,6 +1,6 @@
 # 삐까뻔쩍 - PPIKA ❇️
 <h2 align="center">🔍피부 분석 서비스🔎</h2>
-<img width="8805" height="2262" alt="삐까로고가로형" src="https://github.com/user-attachments/assets/5cc7f37e-f104-4561-a77c-9ddcaee2808c" />
+<img width="10096" height="3315" alt="Frame 62" src="https://github.com/user-attachments/assets/e6da5530-4998-4022-96ff-8a1bdd82ea1a" />
 
 <h3 align="center">https://www.ppikkappeonjjeog.life/</h3>
 <h3 align="center">삐까뻔쩍은 피부 분석 서비스 입니다.</h3>
