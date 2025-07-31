@@ -96,10 +96,15 @@ https://medium.com/p/b230789a8c00/edit
 
 ## 📊 Monitoring
 
+![image.png](attachment:971b6394-fd11-4173-bb20-080957b52686:image.png)
+
+![image.png](attachment:88eeac9b-0ec3-453b-87a4-74542ceb478d:image.png)
+
+## 2. 로깅
 
 
 ## 🔧 Logging
-
+![image.png](attachment:b559a5cf-6167-4924-b6ba-ddd78c101ae6:image.png)
 
 
 
