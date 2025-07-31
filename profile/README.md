@@ -246,22 +246,22 @@ https://medium.com/@kim138762/2025-siliconvalley-summer-bootcamp-b230789a8c00
             Leader<br>
         </td>
         <td width="150" align="center">
-            Backend
-            Frontend
-            DevOps
+            Backend<br>
+            Frontend<br>
+            DevOps<br>
         </td>
         <td width="150" align="center">
-            Backend
-            Frontend
+            Backend<br>
+            Frontend<br>
         </td>
         <td width="150" align="center">
-            Backend
-            Frontend
+            Backend<br>
+            Frontend<br>
         </td>
         <td width="150" align="center">
-            Backend
-            Frontend
-            DevOps
+            Backend<br>
+            Frontend<br>
+            DevOps<br>
         </td>
     </tr>
     <tr>
