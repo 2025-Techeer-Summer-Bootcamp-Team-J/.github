@@ -19,7 +19,8 @@ https://medium.com/p/b230789a8c00/edit
 ## 🎥 Demo
 
 ### 온보딩 페이지
-서비스의 소개 및 사용방법 을 알 수 있습니다
+
+> 서비스의 간략한 설명을 담고 있습니다.
 
 
 
@@ -29,6 +30,7 @@ https://medium.com/p/b230789a8c00/edit
 
 
 ### AI 진단
+> 피부 질환의 사진을 업로드하여 분석결과를 얻을 수 있습니다
 
 ![_AI진단 mp4](https://github.com/user-attachments/assets/a1b57019-b8be-4eec-aa11-5f5bb8f182db)
 
@@ -36,7 +38,7 @@ https://medium.com/p/b230789a8c00/edit
 
 
 ### 피부 분석
-
+> 얼굴 사진을 업로드하여 분석결과를 얻을 수 있습니다
 
 ![피부분석 mp4](https://github.com/user-attachments/assets/b5d7c5fd-d444-4d21-b838-c7aa22708695)
 
@@ -44,6 +46,8 @@ https://medium.com/p/b230789a8c00/edit
 
 
 ### 대시보드
+> 대시보드에서 이전 분석결과를 조회할 수 있습니다
+
 ![대시보드 mp4](https://github.com/user-attachments/assets/94da652c-3b88-443a-8228-eeb836296120)
 
 
@@ -52,6 +56,8 @@ https://medium.com/p/b230789a8c00/edit
 
 
 ### 오늘의 케어
+> 자외선 지수를 조회할 수 있습니다
+
 ![오늘의 케어 mp4](https://github.com/user-attachments/assets/d0a5288b-5efe-46dd-af5b-40017af7b3cd)
 
 
@@ -96,17 +102,20 @@ https://medium.com/p/b230789a8c00/edit
 
 ## 📊 Monitoring
 
-![image.png](attachment:971b6394-fd11-4173-bb20-080957b52686:image.png)
 
-![image.png](attachment:88eeac9b-0ec3-453b-87a4-74542ceb478d:image.png)
+<img width="1895" height="824" alt="image" src="https://github.com/user-attachments/assets/8fc17e9d-e8fa-4db1-bc58-871f89b00d6a" />
 
-## 2. 로깅
+
+<img width="1890" height="792" alt="image (2)" src="https://github.com/user-attachments/assets/071a90e4-5e70-4a9f-b585-b492c5a23c0f" />
 
 
 ## 🔧 Logging
-![image.png](attachment:b559a5cf-6167-4924-b6ba-ddd78c101ae6:image.png)
 
 
+
+
+
+<img width="1916" height="947" alt="image (1)" src="https://github.com/user-attachments/assets/c0e355f0-221d-460d-8bbe-f1d1d5627439" />
 
 
 ## 👨‍👩‍👧‍👦 Team Members
