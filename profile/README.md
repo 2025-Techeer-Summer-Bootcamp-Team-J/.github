@@ -68,6 +68,7 @@ https://medium.com/p/b230789a8c00/edit
 ## 🛠 System Architecture
 <img width="1383" height="759" alt="image" src="https://github.com/user-attachments/assets/96aa4ac7-2de5-46d5-abba-ad42f9754d74" />
 
+<img width="1248" height="571" alt="image" src="https://github.com/user-attachments/assets/4e3f4efe-52ea-486e-bc45-87938062a5a8" />
 
 
 ## 🔑 ERD
