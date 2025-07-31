@@ -38,21 +38,24 @@ https://medium.com/p/b230789a8c00/edit
 ### 피부 분석
 
 
-![피부분석 (1)](https://github.com/user-attachments/assets/84f3fe13-5c81-4587-a382-9ad56564a38c)
+![피부분석 mp4](https://github.com/user-attachments/assets/b5d7c5fd-d444-4d21-b838-c7aa22708695)
+
 
 
 
 ### 대시보드
+![대시보드 mp4](https://github.com/user-attachments/assets/94da652c-3b88-443a-8228-eeb836296120)
 
 
-![대시보드 (1)](https://github.com/user-attachments/assets/84967fd6-c6eb-4b92-906f-bc1c19dd5c1f)
+
 
 
 
 ### 오늘의 케어
+![오늘의 케어 mp4](https://github.com/user-attachments/assets/d0a5288b-5efe-46dd-af5b-40017af7b3cd)
 
 
-![오늘의-케어 (1)](https://github.com/user-attachments/assets/fdb4edcf-ba91-421b-80ca-65ea977f46d3)
+
 
 
 
