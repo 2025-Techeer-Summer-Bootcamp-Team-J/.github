@@ -21,15 +21,17 @@ https://medium.com/p/b230789a8c00/edit
 ### 온보딩 페이지
 서비스의 소개 및 사용방법 을 알 수 있습니다
 
-![온보딩 (1) (1)](https://github.com/user-attachments/assets/2784c16a-d191-4cff-981c-33b84c39cb63)
 
+
+![온보딩 mp4](https://github.com/user-attachments/assets/a9906eb4-f00d-4add-ae8e-630328e07648)
 
 
 
 
 ### AI 진단
 
-![AI진단 (1)](https://github.com/user-attachments/assets/49285aa0-88b4-424d-ac29-79df5b3ce7a2)
+![_AI진단 mp4](https://github.com/user-attachments/assets/a1b57019-b8be-4eec-aa11-5f5bb8f182db)
+
 
 
 
