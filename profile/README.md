@@ -19,7 +19,7 @@
 
 
 ## 📖 Medium
-https://medium.com/p/b230789a8c00/edit
+https://medium.com/@kim138762/2025-siliconvalley-summer-bootcamp-b230789a8c00
 
 ## 🎥 Demo
 
