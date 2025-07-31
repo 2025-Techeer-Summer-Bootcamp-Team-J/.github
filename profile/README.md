@@ -21,30 +21,38 @@ https://medium.com/p/b230789a8c00/edit
 ### 온보딩 페이지
 서비스의 소개 및 사용방법 을 알 수 있습니다
 
+![온보딩 (1) (1)](https://github.com/user-attachments/assets/2784c16a-d191-4cff-981c-33b84c39cb63)
 
 
-https://github.com/user-attachments/assets/34e0c9cb-2bf4-417d-9618-ce07c32c7892
+
 
 
 ### AI 진단
 
+![AI진단 (1)](https://github.com/user-attachments/assets/49285aa0-88b4-424d-ac29-79df5b3ce7a2)
 
-https://github.com/user-attachments/assets/0528e439-793a-48be-a11e-f90c34b10110
+
 
 ### 피부 분석
 
 
-https://github.com/user-attachments/assets/a02bbb9c-77a1-4c3d-9912-722d1ef082a4
+![피부분석 (1)](https://github.com/user-attachments/assets/84f3fe13-5c81-4587-a382-9ad56564a38c)
+
+
 
 ### 대시보드
 
 
-https://github.com/user-attachments/assets/5ccbdf2f-fe81-439e-9945-94c063c99c30
+![대시보드 (1)](https://github.com/user-attachments/assets/84967fd6-c6eb-4b92-906f-bc1c19dd5c1f)
+
+
 
 ### 오늘의 케어
 
 
-https://github.com/user-attachments/assets/735944f4-9c50-4712-8562-94086b58e54d
+![오늘의-케어 (1)](https://github.com/user-attachments/assets/fdb4edcf-ba91-421b-80ca-65ea977f46d3)
+
+
 
 
 
